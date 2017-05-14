@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	    <meta charset="UTF-8">
+		<title>Нфзвание страницы</title>
+    </head>
+    <body>
+	    <h1>Моя первая страница</h1>
+		<h2>Моя вторая страница</h2>
+	
+    </body>
+</html>
